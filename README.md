@@ -1,8 +1,8 @@
 # termux-setup
 Ready your termux with instant setup!
-# installation
-pkg install git
-pkg install nodejs
-git clone https://github.com/renlowsphere/termux-setup
-cd termux-setup
+# installation <b>
+pkg install git <br>
+pkg install nodejs<br>
+git clone https://github.com/renlowsphere/termux-setup<br>
+cd termux-setup<br>
 node setup.js
